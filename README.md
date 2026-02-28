@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-Isabella Nava Martínez - ID:1126825
+- Isabella Nava Martínez - ID:1126825
 
-Juliana Landazuri Angulo - ID:1125618
+- Juliana Landazuri Angulo - ID:1125618
 
-Tomas Alejandro Gonzalez Orozco - ID:126660
+- Tomas Alejandro Gonzalez Orozco - ID:126660
 
 
 ## Tema
